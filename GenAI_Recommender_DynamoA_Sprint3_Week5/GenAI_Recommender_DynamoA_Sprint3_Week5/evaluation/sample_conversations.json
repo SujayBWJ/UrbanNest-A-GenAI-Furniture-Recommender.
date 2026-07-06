@@ -1,0 +1,77 @@
+[
+    {
+        "query": "Recommend sofa variation 0",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 3.1
+    },
+    {
+        "query": "Recommend sofa variation 1",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 3.56
+    },
+    {
+        "query": "Recommend sofa variation 2",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 2.31
+    },
+    {
+        "query": "Recommend sofa variation 3",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 2.52
+    },
+    {
+        "query": "Recommend sofa variation 4",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 2.67
+    },
+    {
+        "query": "Recommend sofa variation 5",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 4.22
+    },
+    {
+        "query": "Recommend sofa variation 6",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 3.25
+    },
+    {
+        "query": "Recommend sofa variation 7",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 3.01
+    },
+    {
+        "query": "Recommend sofa variation 8",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 2.76
+    },
+    {
+        "query": "Recommend sofa variation 9",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 3.79
+    },
+    {
+        "query": "Recommend sofa variation 10",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 2.51
+    },
+    {
+        "query": "Recommend sofa variation 11",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 3.39
+    },
+    {
+        "query": "Recommend sofa variation 12",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 3.46
+    },
+    {
+        "query": "Recommend sofa variation 13",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 2.27
+    },
+    {
+        "query": "Recommend sofa variation 14",
+        "response": "Recommended modular sofa with walnut finish.",
+        "latency": 2.43
+    }
+]

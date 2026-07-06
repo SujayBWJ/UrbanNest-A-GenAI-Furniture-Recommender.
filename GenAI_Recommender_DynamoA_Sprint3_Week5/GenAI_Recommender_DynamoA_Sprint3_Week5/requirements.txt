@@ -1,0 +1,11 @@
+
+langchain
+langchain-community
+chromadb
+sentence-transformers
+streamlit
+ollama
+pandas
+numpy
+scikit-learn
+matplotlib

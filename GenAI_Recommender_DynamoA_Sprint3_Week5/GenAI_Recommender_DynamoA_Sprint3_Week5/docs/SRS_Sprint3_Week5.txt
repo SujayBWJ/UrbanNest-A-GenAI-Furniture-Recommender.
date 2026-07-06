@@ -1,0 +1,92 @@
+
+SOFTWARE REQUIREMENT SPECIFICATION
+Project: UrbanNest Furniture Recommendation System
+Team: DynamoA
+
+1. Introduction
+
+The main aim of this project is to improve furniture recommendations using conversational AI and RAG based retrieval. 
+Instead of showing only random popular products, the system tries to understand user preferences and recommend products accordingly.
+
+This project was developed during Sprint 3 Week 5 as part of the GenAI recommender system implementation.
+
+2. Objective
+
+The system should:
+- Recommend furniture products based on user query
+- Support conversational interaction
+- Retrieve relevant products using vector similarity
+- Generate personalized responses using Llama 3
+
+3. Technologies Used
+
+- Python
+- LangChain
+- ChromaDB
+- Ollama
+- Llama 3
+- Streamlit
+- SentenceTransformers
+
+4. Functional Requirements
+
+4.1 Product Retrieval
+The retriever should fetch similar products from the vector database based on semantic similarity.
+
+4.2 Conversational Recommendation
+Users can type natural language queries like:
+"Suggest modern sofa under 40000"
+
+The system should generate meaningful recommendations.
+
+4.3 Personalization
+The project includes prompts for:
+- budget based recommendation
+- style based recommendation
+- room based recommendation
+- cross-sell recommendation
+
+5. Non Functional Requirements
+
+- Average response time should remain under 5 seconds.
+- UI should be simple and easy to use.
+- Retrieval accuracy should remain reasonably relevant.
+
+6. Dataset Information
+
+The dataset contains sample furniture product details including:
+- product name
+- category
+- price
+- rating
+- style
+
+Initially some duplicate records were present and basic cleaning was done before testing.
+
+7. Problems Faced During Implementation
+
+- Ollama setup initially failed because model was not downloaded properly.
+- Retrieval quality was inconsistent for vague queries.
+- Some prompts produced repetitive responses during testing.
+
+After modifying prompt templates and retrieval top_k values, the responses became more relevant.
+
+8. Testing Summary
+
+Few sample queries tested:
+- Recommend minimalist furniture
+- Suggest dining table for family of 6
+- Furniture under 30000 INR
+
+Most responses were generated within 3-5 seconds depending on local system performance.
+
+9. Limitations
+
+- Performance depends on local RAM and CPU.
+- Product quality depends on dataset quality.
+- Very short or unclear queries sometimes reduce retrieval accuracy.
+
+10. Conclusion
+
+The project successfully demonstrates a conversational furniture recommendation system using RAG and Llama 3.
+The system was able to retrieve relevant products and generate personalized responses during testing.

@@ -1,0 +1,151 @@
+product_id,product_name,price,rating,style,stock
+1,Modern Sofa 1,84516,4.8,Scandinavian,37
+2,Scandinavian Sofa 2,72424,4.9,Modern,29
+3,Modern Sofa 3,41952,4.6,Minimalist,5
+4,Minimalist Coffee Table 4,40785,4.3,Scandinavian,29
+5,Industrial Sofa 5,71367,3.9,Minimalist,8
+6,Modern Bed 6,17317,4.1,Minimalist,31
+7,Minimalist Bed 7,12587,4.4,Luxury,12
+8,Scandinavian Bed 8,83748,4.7,Scandinavian,26
+9,Luxury Dining Table 9,31142,4.6,Modern,15
+10,Minimalist Sofa 10,18256,4.3,Luxury,42
+11,Modern Sofa 11,75335,4.6,Luxury,47
+12,Minimalist Dining Table 12,78668,4.8,Scandinavian,7
+13,Luxury Dining Table 13,57069,4.8,Luxury,43
+14,Minimalist Dining Table 14,79268,3.9,Luxury,22
+15,Minimalist Sofa 15,77058,4.7,Industrial,25
+16,Industrial Sofa 16,28578,4.0,Modern,45
+17,Scandinavian Chair 17,67586,4.2,Luxury,24
+18,Minimalist Sofa 18,31323,4.0,Modern,30
+19,Industrial Dining Table 19,84457,4.1,Industrial,22
+20,Modern Sofa 20,42290,4.2,Scandinavian,42
+21,Modern Bed 21,14058,4.7,Scandinavian,47
+22,Modern Chair 22,54479,4.2,Industrial,39
+23,Scandinavian Chair 23,79209,4.6,Scandinavian,15
+24,Industrial Coffee Table 24,71130,4.1,Industrial,25
+25,Scandinavian Coffee Table 25,50264,3.8,Scandinavian,50
+26,Minimalist Dining Table 26,66334,4.4,Luxury,19
+27,Scandinavian Bed 27,47771,4.7,Industrial,18
+28,Scandinavian Sofa 28,31182,4.2,Modern,18
+29,Minimalist Chair 29,50750,4.3,Scandinavian,32
+30,Minimalist Sofa 30,45516,4.3,Scandinavian,32
+31,Scandinavian Bed 31,33149,4.8,Industrial,30
+32,Minimalist Bed 32,73131,3.9,Scandinavian,40
+33,Industrial Bed 33,51128,4.7,Industrial,45
+34,Minimalist Sofa 34,36094,4.0,Industrial,5
+35,Industrial Sofa 35,45900,4.8,Modern,13
+36,Industrial Chair 36,47377,4.5,Minimalist,35
+37,Industrial Sofa 37,12673,4.5,Minimalist,25
+38,Industrial Sofa 38,53674,3.9,Industrial,34
+39,Industrial Sofa 39,39325,4.2,Luxury,15
+40,Modern Dining Table 40,76146,4.8,Scandinavian,26
+41,Modern Coffee Table 41,39063,4.7,Scandinavian,6
+42,Modern Chair 42,26161,4.0,Luxury,42
+43,Modern Bed 43,77455,4.6,Industrial,36
+44,Luxury Bed 44,74136,4.9,Modern,20
+45,Scandinavian Bed 45,48965,4.2,Modern,27
+46,Minimalist Chair 46,68967,4.2,Minimalist,46
+47,Modern Chair 47,14485,4.9,Modern,44
+48,Industrial Sofa 48,16403,4.7,Luxury,43
+49,Industrial Dining Table 49,18286,4.5,Modern,15
+50,Modern Chair 50,63840,4.4,Luxury,32
+51,Modern Dining Table 51,54661,4.5,Industrial,38
+52,Minimalist Chair 52,24981,4.6,Scandinavian,19
+53,Industrial Bed 53,75378,4.1,Scandinavian,32
+54,Luxury Chair 54,42525,4.6,Industrial,33
+55,Industrial Chair 55,64030,4.0,Scandinavian,37
+56,Luxury Dining Table 56,45146,4.8,Minimalist,8
+57,Industrial Bed 57,42489,4.0,Minimalist,6
+58,Scandinavian Bed 58,61802,4.1,Luxury,18
+59,Minimalist Dining Table 59,46910,4.6,Modern,9
+60,Scandinavian Dining Table 60,35851,4.0,Modern,21
+61,Minimalist Sofa 61,38956,4.5,Scandinavian,17
+62,Modern Chair 62,50368,4.3,Scandinavian,15
+63,Scandinavian Coffee Table 63,51356,4.7,Modern,12
+64,Modern Dining Table 64,35304,4.2,Industrial,38
+65,Modern Sofa 65,30395,4.4,Luxury,21
+66,Scandinavian Sofa 66,25138,4.7,Luxury,37
+67,Luxury Chair 67,40182,4.0,Minimalist,41
+68,Modern Bed 68,25958,4.5,Minimalist,10
+69,Minimalist Coffee Table 69,66204,4.9,Scandinavian,12
+70,Industrial Dining Table 70,38782,4.2,Industrial,36
+71,Minimalist Sofa 71,58777,4.3,Minimalist,40
+72,Modern Sofa 72,30080,4.8,Luxury,26
+73,Luxury Coffee Table 73,78756,4.6,Scandinavian,25
+74,Modern Coffee Table 74,82138,3.8,Scandinavian,9
+75,Modern Bed 75,64695,4.6,Industrial,22
+76,Industrial Chair 76,21269,4.8,Modern,14
+77,Modern Bed 77,59491,4.0,Luxury,33
+78,Industrial Chair 78,83291,4.6,Industrial,33
+79,Luxury Chair 79,16981,4.1,Minimalist,25
+80,Modern Sofa 80,79304,3.8,Modern,37
+81,Minimalist Chair 81,71344,3.9,Modern,40
+82,Scandinavian Bed 82,48310,4.6,Scandinavian,7
+83,Modern Sofa 83,35198,4.8,Industrial,24
+84,Luxury Chair 84,37912,4.2,Modern,24
+85,Modern Sofa 85,62149,4.7,Luxury,24
+86,Modern Coffee Table 86,47637,4.0,Scandinavian,10
+87,Minimalist Sofa 87,71667,3.9,Scandinavian,25
+88,Scandinavian Chair 88,48487,4.0,Modern,7
+89,Luxury Chair 89,78015,4.8,Industrial,28
+90,Luxury Bed 90,39034,4.5,Luxury,49
+91,Industrial Coffee Table 91,74710,4.4,Modern,43
+92,Modern Sofa 92,82228,4.8,Industrial,21
+93,Scandinavian Chair 93,78997,3.9,Luxury,33
+94,Industrial Bed 94,36519,4.1,Scandinavian,23
+95,Modern Chair 95,33906,3.9,Luxury,37
+96,Modern Dining Table 96,44745,4.9,Scandinavian,39
+97,Scandinavian Bed 97,29148,4.0,Industrial,6
+98,Minimalist Sofa 98,82665,4.0,Luxury,22
+99,Minimalist Dining Table 99,18833,4.8,Industrial,8
+100,Scandinavian Coffee Table 100,65882,4.0,Modern,37
+101,Scandinavian Bed 101,38800,3.8,Scandinavian,20
+102,Scandinavian Chair 102,58419,4.7,Luxury,11
+103,Minimalist Dining Table 103,43183,3.8,Industrial,22
+104,Scandinavian Sofa 104,68000,3.8,Luxury,30
+105,Industrial Chair 105,52189,4.2,Modern,6
+106,Minimalist Chair 106,29276,4.5,Modern,39
+107,Industrial Coffee Table 107,48789,4.9,Industrial,48
+108,Luxury Chair 108,37921,4.1,Minimalist,44
+109,Scandinavian Bed 109,59714,4.4,Modern,19
+110,Modern Chair 110,41753,4.2,Industrial,10
+111,Modern Chair 111,39855,4.8,Industrial,36
+112,Scandinavian Coffee Table 112,82191,4.6,Industrial,36
+113,Scandinavian Bed 113,57064,4.8,Luxury,16
+114,Modern Chair 114,60282,4.8,Modern,38
+115,Luxury Dining Table 115,52942,4.5,Minimalist,32
+116,Minimalist Chair 116,81476,4.6,Modern,49
+117,Modern Sofa 117,49993,4.8,Minimalist,16
+118,Industrial Bed 118,47951,4.2,Scandinavian,18
+119,Minimalist Dining Table 119,16321,3.9,Scandinavian,21
+120,Minimalist Dining Table 120,13545,4.3,Scandinavian,7
+121,Luxury Sofa 121,34702,4.7,Scandinavian,29
+122,Luxury Sofa 122,37287,4.5,Modern,50
+123,Luxury Coffee Table 123,78299,4.3,Industrial,40
+124,Minimalist Coffee Table 124,37287,4.1,Modern,14
+125,Modern Chair 125,66367,4.7,Industrial,45
+126,Scandinavian Chair 126,62237,4.4,Scandinavian,37
+127,Minimalist Dining Table 127,12013,4.5,Industrial,36
+128,Industrial Dining Table 128,14978,4.3,Industrial,27
+129,Scandinavian Sofa 129,43151,4.3,Scandinavian,7
+130,Minimalist Bed 130,65475,4.5,Industrial,30
+131,Modern Coffee Table 131,30090,4.7,Modern,29
+132,Industrial Bed 132,35574,4.7,Luxury,37
+133,Scandinavian Sofa 133,14765,4.8,Minimalist,25
+134,Scandinavian Chair 134,65362,4.5,Industrial,10
+135,Minimalist Coffee Table 135,33244,3.9,Modern,29
+136,Scandinavian Coffee Table 136,21059,4.7,Minimalist,28
+137,Industrial Sofa 137,42699,4.2,Modern,41
+138,Scandinavian Sofa 138,65861,4.2,Modern,45
+139,Modern Bed 139,81128,4.7,Industrial,46
+140,Luxury Chair 140,68234,3.9,Scandinavian,37
+141,Scandinavian Dining Table 141,52905,3.9,Luxury,34
+142,Industrial Sofa 142,45747,4.7,Industrial,44
+143,Industrial Chair 143,22208,4.1,Scandinavian,10
+144,Scandinavian Sofa 144,22230,4.0,Luxury,12
+145,Minimalist Bed 145,64197,4.7,Luxury,25
+146,Scandinavian Dining Table 146,70871,3.8,Scandinavian,17
+147,Modern Coffee Table 147,20136,4.0,Scandinavian,32
+148,Industrial Sofa 148,15114,4.2,Modern,49
+149,Scandinavian Chair 149,52325,4.5,Luxury,38
+150,Industrial Dining Table 150,30255,4.7,Minimalist,32

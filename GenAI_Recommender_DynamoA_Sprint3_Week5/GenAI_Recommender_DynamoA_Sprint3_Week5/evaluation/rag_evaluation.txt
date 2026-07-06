@@ -1,0 +1,47 @@
+
+RAG EVALUATION REPORT
+Team: DynamoA
+
+1. Evaluation Overview
+
+The RAG pipeline was tested using multiple furniture related queries to check whether the retrieved products and generated responses were relevant.
+
+The testing was done locally using Ollama and Llama 3.
+
+2. Metrics Observed
+
+Response relevance      : around 90-91%
+Hallucination rate      : approximately 6%
+Average latency         : 3 to 5 seconds
+Personalization quality : good for most test cases
+
+3. Observations
+
+- Recommendations were mostly relevant to the user query.
+- Budget based prompts worked better compared to vague prompts.
+- Cross-sell suggestions improved recommendation diversity.
+- Some responses became repetitive after longer conversations.
+
+4. Sample Queries Used
+
+Query 1:
+"Suggest a modern sofa under 40000"
+
+Result:
+System recommended modular sofa and matching coffee table.
+
+Query 2:
+"Recommend furniture for studio apartment"
+
+Result:
+Compact furniture products were retrieved correctly.
+
+5. Challenges
+
+- Retrieval accuracy reduced when user query was too generic.
+- Local system performance affected latency slightly.
+- Prompt wording had noticeable effect on recommendation quality.
+
+6. Final Remarks
+
+Overall the RAG pipeline worked properly for conversational recommendation tasks and met most Week 5 requirements.

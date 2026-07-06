@@ -1,0 +1,16 @@
+
+style_prompts:
+  - "Recommend minimalist furniture"
+  - "Suggest Scandinavian living room furniture"
+
+budget_prompts:
+  - "Products under 25000 INR"
+  - "Affordable modern furniture"
+
+cross_sell:
+  - "Recommend matching coffee tables"
+  - "Suggest products that pair with leather sofas"
+
+persona:
+  - "Furniture for working professionals"
+  - "Furniture for young couples"

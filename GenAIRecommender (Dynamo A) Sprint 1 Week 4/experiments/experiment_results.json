@@ -1,0 +1,9 @@
+{
+  "best_params": {
+    "learning_rate": 0.1,
+    "max_depth": 4,
+    "n_estimators": 50
+  },
+  "best_ndcg": 0.82,
+  "notes": "Hybrid model improved ranking quality over baseline"
+}
